@@ -1,2 +1,2 @@
 # NeteaseMusicFinder
-Finde information on netease music
+Find information on netease music
